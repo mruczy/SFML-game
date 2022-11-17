@@ -1,0 +1,2 @@
+C:\Users\mruczy\Desktop\SFML test\SFML-Template\x64\Debug\SetPlot.exe
+C:\Users\mruczy\Desktop\SFML\x64\Debug\main.exe
